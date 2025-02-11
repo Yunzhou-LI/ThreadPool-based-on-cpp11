@@ -5,7 +5,7 @@
 #example  
 void HelloWorld()  
 {  
-  std::cout<<"Hello World!"<<std::endl;  
+  cout<<"Hello World!"<<endl;  
 }  
 int sum(int a,int b)  
 {  
